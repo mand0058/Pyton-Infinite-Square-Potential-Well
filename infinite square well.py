@@ -1,10 +1,3 @@
-#physics assignment
-#Name=Mandeep Kumar
-#Branch = Computer Science And Engineering
-#roll No= 23BCS8058
-
-
-
 #python program for plotting the graph of a infinite square well
 
 import matplotlib.pyplot as plt    #Importing  matplotlib.pylot () 
